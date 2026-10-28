@@ -1,0 +1,7 @@
+ID,title,author_ID,genre_ID,stock,price,descr
+201,Wuthering Heights,101,1,100,12.99,A tale of passionate love and revenge on the Yorkshire moors
+202,Jane Eyre,102,1,80,11.99,The story of an orphan girl finding her place in the world
+203,The Tell-Tale Heart,103,5,60,9.99,A short story of guilt and obsession
+204,The Feynman Lectures on Physics,104,2,45,29.99,Classic physics lectures that changed how physics is taught
+205,The Left Hand of Darkness,105,3,55,14.99,A science fiction masterpiece exploring gender and society
+206,A Wizard of Earthsea,105,4,70,13.99,The coming-of-age story of a young wizard named Ged
